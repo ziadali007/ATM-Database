@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ATM-Database
 =======
 # Distributed System Project using Golang
